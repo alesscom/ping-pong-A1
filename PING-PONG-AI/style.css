@@ -1,0 +1,21 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+#start, #status{
+    font-size: 22px;
+}
+h4{
+    background-color: cadetblue;
+    line-height: 12;
+    margin: 0px;
+    border-radius: 5px;
+}
